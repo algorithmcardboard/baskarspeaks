@@ -9,3 +9,4 @@
 * I came in with a ten mile commute.  I am leaving with 40 miles commute now.
 * It was all interesting and mostly good
 * Dont count the number of lines.  Count the number of friendships.
+* "True! True! True!"
