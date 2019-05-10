@@ -1,5 +1,7 @@
 ## Quotes from Baskar
 
+* We need to zoom in. 
+* There is no black & white.  Everything is gray.
 * Dont take it too seriously
 * Startups are zig zag line.  Straight lines are boring
 * There will always be bugs.  Just fix it.
@@ -7,4 +9,3 @@
 * I came in with a ten mile commute.  I am leaving with 40 miles commute now.
 * It was all interesting and mostly good
 * Dont count the number of lines.  Count the number of friendships.
-* We need to zoom in. 
