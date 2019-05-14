@@ -1,6 +1,9 @@
 ## Quotes from Baskar
 
-* We need to zoom in. 
+* We need to zoom in.
+* The fix apparently doesn't work.
+* Thats even more bogus.
+* Oh! really?
 * There is no black & white.  Everything is gray.
 * Dont take it too seriously
 * Startups are zig zag line.  Straight lines are boring
